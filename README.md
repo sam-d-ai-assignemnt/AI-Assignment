@@ -1,1 +1,1 @@
-To run it open localhost in your browser
+To run it open localhost in your browser. To use localhost, you must install either XAMPP, MAMPP, LAMPP, or WAMPP, depending on your OS. (XAMPP works for all operating systems). Save AI-assignment to the folder "mysql", and AI to "htdocs". Then open your browser and enter www.localhost/AI/ and the webpage will open.
